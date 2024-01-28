@@ -8,8 +8,8 @@
 #include <ESP8266WiFi.h>
 
 // Sostituire con l'SSID e la password della rete wifi
-const char* ssid     = "HonAnt";
-const char* password = "30fbcfb842f5";
+const char* ssid     = "ssid";
+const char* password = "password";
 
 // Imposto il webserver in ascolto sulla porta 80
 WiFiServer server(80);
